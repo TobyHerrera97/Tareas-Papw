@@ -1,0 +1,34 @@
+body{
+    background-color: rgba(0, 0, 255, 0.603);
+}
+h1 {
+    background-color: rgb(247, 247, 165);
+    text-align: center;
+    width: 98%; /* Ancho menor a 100%  */
+    border: 3px solid rgb(38, 138, 219);
+    padding: 10px;
+  }
+  h2{
+      background-color: rgb(152, 46, 250);
+      text-align: left;
+      width: 98%; /* Ancho menor a 100%  */
+      border: 3px solid rgb(38, 138, 219);
+      padding: 10px;
+  }
+
+  table{
+    background-color:rgb(152, 46, 250);
+    margin: auto;
+    width: 50%; /* Ancho menor a 100%  */
+    border: 1px solid;
+    padding: 10px; 
+
+   
+        width: 1450px;
+        height: 50px;
+        padding: 15px;
+        margin: 15px;
+   
+    
+}
+
